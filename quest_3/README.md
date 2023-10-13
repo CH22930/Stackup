@@ -11,11 +11,6 @@ sui --version
 ```
 If the Sui is not installed, refer Sui's docs to install (https://docs.sui.io/build/install)
 
-Note:
-`sui move new` command is used to initialise a Sui Move package.
-
-e.g: `sui move new quest_3` This will initialize an empty Sui Move package with the name quest_3.
-
 
 To change the directory of your terminal to enter the quest_3 folder
 ```
@@ -32,4 +27,7 @@ sui move test
 ```
 
 
+Note:
+`sui move new` command is used to initialise a Sui Move package.
 
+e.g: `sui move new quest_3` This will initialize an empty Sui Move package with the name quest_3.
